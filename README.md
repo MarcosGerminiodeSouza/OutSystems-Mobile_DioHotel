@@ -1,17 +1,16 @@
-# Criando uma Aplicação Mobile com OutSystems
+# Aplicativo Mobile - DIO Hotel
 
-**Criando uma Aplicação Mobile com OutSystems**
+**Aplicativo Mobile com OutSystems**
 
-1. Banco de dados relacional do projeto  DioHotel com OutSystems
-2. Sessões para administradores, para clientes e para recepção
-3. Mecanismo para realização do check-in e check-out na tela de recepção
-4. Ações das páginas e ligação entre elas
+1. Posssui Referências da Aplicação DioHotel como banco de dados e ações de servidor.
+2. Usuário pode reservar quartos como cliente Mobile.
 
 ## Desafio DIO
 
 Este projeto é um desafio proposto na plataforma Digital Inovation One
 
 ## Links Úteis
+
 - [Formação OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
 - [Site Oficial da OutSystems](https://www.outsystems.com/pt-br/)
 - [Comunidade da OutSystems](https://www.outsystems.com/community/)
