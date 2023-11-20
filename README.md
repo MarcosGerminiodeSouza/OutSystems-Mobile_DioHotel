@@ -2,7 +2,7 @@
 
 **Aplicativo Mobile com OutSystems**
 
-1. Posssui Referências da Aplicação DioHotel como banco de dados e ações de servidor.
+1. Possui Referências da Aplicação DioHotel como banco de dados e ações de servidor.
 2. Usuário pode reservar quartos como cliente Mobile.
 
 ## Desafio DIO
