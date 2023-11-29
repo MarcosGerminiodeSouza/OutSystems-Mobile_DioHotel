@@ -7,8 +7,8 @@
 
 ## Utilizar Login de Teste
 
-Username: teste
-Password: 123
+- Username: teste
+- Password: 123
 
 ## Desafio DIO
 
